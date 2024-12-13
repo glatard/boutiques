@@ -42,6 +42,7 @@ all = [
     "docopt",
     "nexus-sdk",
     "requests",
+    "openai",
     "mock"
 ]
 doc = [
